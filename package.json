@@ -1,0 +1,21 @@
+{
+  "name": "devtools-themes",
+  "version": "0.0.1",
+  "description": "Shared Devtools Themes",
+  "main": "themes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Laster",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.24.1"
+  },
+  "dependencies": {
+    "kebab-case": "^1.0.0"
+  }
+}
