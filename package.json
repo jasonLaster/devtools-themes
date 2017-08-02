@@ -13,9 +13,9 @@
     "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
     "babel-plugin-transform-flow-strip-types": "^6.22.0",
     "babel-preset-es2015": "^6.24.1",
-    "babel-register": "^6.24.1"
-  },
-  "dependencies": {
+    "babel-register": "^6.24.1",
     "kebab-case": "^1.0.0"
-  }
+  },
+  "files": ["themes.js", "themes.css", "types.js"],
+  "dependencies": {}
 }
